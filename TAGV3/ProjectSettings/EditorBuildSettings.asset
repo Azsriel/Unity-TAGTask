@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c68722be2372338499183cd13c34a110
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: c130a52568046194c84f385b6766f508
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/EndSuccessScreen.unity
+    guid: bb784e79ae8b75c4e8278c710d92a65d
+  - enabled: 1
+    path: Assets/Scenes/EndFailScene.unity
+    guid: 4eff364a36a1e2a4d900d3a8c666d362
+  m_configObjects: {}
